@@ -1,0 +1,693 @@
+{
+  "MFUDJV00DDLLHX": {
+    "name": "DOUBLE J STENT",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "DJ": "Double J stent",
+      "V": {
+        "A": "Single",
+        "C": "Suture & Clamp",
+        "D": "Suture With Clamp & PTFE Guidewire",
+        "I": "Suture With Clamp & COBRA Guidewire"
+      },
+      "00": "Variant Code",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "X": {
+        "H": "Hydrophilic coated",
+        "L": "With Long Pusher",
+        "S": "With Short Pusher"
+      }
+    },
+    "notes": "Applicable for Pretoflex Normal & Bioflex",
+    "variants": {
+      "A": {
+        "01": "DJS BLUE (CE-BP)",
+        "02": "DJS BLUE (CE-OEML-BP)",
+        "03": "DJS BLUE (CE-BEML-BP)",
+        "04": "DJS BLUE (BEO-BP)",
+        "05": "DJS BLUE (BEO-OEML-BP)",
+        "06": "DJS BLUE (BEO-BEML-BP)",
+        "11": "DJS BLUE (CE-RP)",
+        "12": "DJS BLUE (CE-OEML-RP)",
+        "13": "DJS BLUE (CE-BEML-RP)",
+        "14": "DJS BLUE (BEO-RP)",
+        "15": "DJS BLUE (BEO-OEML-RP)",
+        "16": "DJS BLUE (BEO-BEML-RP)",
+        "21": "DJS PRETOFLEX (CE-RP)",
+        "23": "DJS PRETOFLEX (CE-BEML-RP)",
+        "24": "DJS PRETOFLEX (BEO-RP)",
+        "26": "DJS PRETOFLEX (BEO-BEML-RP)",
+        "31": "DJS WHITE (CE-RP)",
+        "32": "DJS WHITE (CE-OEML-RP)",
+        "33": "DJS WHITE (CE-BEML-RP)",
+        "34": "DJS WHITE (BEO-RP)",
+        "35": "DJS WHITE (BEO-OEML-RP)",
+        "36": "DJS WHITE (BEO-BEML-RP)",
+        "41": "DJS BIOFLEX (CE-RP)-YELLOW",
+        "43": "DJS BIOFLEX (CE-BEML-RP)-YELLOW",
+        "44": "DJS BIOFLEX (BEO-RP)-YELLOW",
+        "46": "DJS BIOFLEX (BEO-BEML-RP)-YELLOW",
+        "51": "DJS BIOFLEX (CE-BLP)-WHITE",
+        "53": "DJS BIOFLEX (CE-BEML-BLP)-WHITE",
+        "54": "DJS BIOFLEX (BEO-BLP)-WHITE",
+        "56": "DJS BIOFLEX (BEO-BEML-BLP)-WHITE",
+        "61": "DJS WHITE (CE-BLP)",
+        "62": "DJS WHITE (CE-OEML-BLP)",
+        "63": "DJS WHITE (CE-BEML-BLP)",
+        "64": "DJS WHITE (BEO-BLP)",
+        "65": "DJS WHITE (BEO-OEML-BLP)",
+        "66": "DJS WHITE (BEO-BEML-BLP)",
+        "71": "DJS BIOFLEX (CE-RP)-WHITE",
+        "73": "DJS BIOFLEX (CE-BEML-RP)-WHITE",
+        "74": "DJS BIOFLEX (BEO-RP)-WHITE",
+        "76": "DJS BIOFLEX (BEO-BEML-RP)-WHITE",
+        "81": "DJS BLUE (CE-GP)",
+        "82": "DJS BLUE (CE-OEML-GP)",
+        "83": "DJS BLUE (CE-BEML-GP)",
+        "84": "DJS BLUE (BEO-GP)",
+        "85": "DJS BLUE (BEO-OEML-GP)",
+        "86": "DJS BLUE (BEO-BEML-GP)",
+        "91": "DJS WHITE (CE-GP)",
+        "92": "DJS WHITE (CE-OEML-GP)",
+        "93": "DJS WHITE (CE-BEML-GP)",
+        "94": "DJS WHITE (BEO-GP)",
+        "95": "DJS WHITE (BEO-OEML-GP)",
+        "96": "DJS WHITE (BEO-BEML-GP)"
+      },
+      "C": {
+        "01": "DJS BLUE (CE-BP-SU-CL)",
+        "03": "DJS BLUE (CE-BEML-BP-SU-CL)",
+        "04": "DJS BLUE (BEO-BP-SU-CL)",
+        "06": "DJS BLUE (BEO-BEML-BP-SU-CL)",
+        "11": "DJS BLUE (CE-RP-SU-CL)",
+        "13": "DJS BLUE (CE-BEML-RP-SU-CL)",
+        "14": "DJS BLUE (BEO-RP-SU-CL)",
+        "16": "DJS BLUE (BEO-BEML-RP-SU-CL)",
+        "21": "DJS PRETOFLEX (CE-RP-SU-CL)",
+        "23": "DJS PRETOFLEX (CE-BEML-RP-SU-CL)",
+        "24": "DJS PRETOFLEX (BEO-RP-SU-CL)",
+        "26": "DJS PRETOFLEX (BEO-BEML-RP-SU-CL)",
+        "31": "DJS WHITE (CE-RP-SU-CL)",
+        "33": "DJS WHITE (CE-BEML-RP-SU-CL)",
+        "34": "DJS WHITE (BEO-RP-SU-CL)",
+        "36": "DJS WHITE (BEO-BEML-RP-SU-CL)",
+        "41": "DJS BIOFLEX (CE-RP-SU-CL)-YELLOW",
+        "43": "DJS BIOFLEX (CE-BEML-RP-SU-CL)-YELLOW",
+        "44": "DJS BIOFLEX (BEO-RP-SU-CL)-YELLOW",
+        "46": "DJS BIOFLEX (BEO-BEML-RP-SU-CL)-YELLOW",
+        "51": "DJS BIOFLEX (CE-BLP-SU-CL)-WHITE",
+        "53": "DJS BIOFLEX (CE-BEML-BLP-SU-CL)-WHITE",
+        "54": "DJS BIOFLEX (BEO-BLP-SU-CL)-WHITE",
+        "56": "DJS BIOFLEX (BEO-BEML-BLP-SU-CL)-WHITE",
+        "61": "DJS WHITE (CE-BLP-SU-CL)",
+        "63": "DJS WHITE (CE-BEML-BLP-SU-CL)",
+        "64": "DJS WHITE (BEO-BLP-SU-CL)",
+        "66": "DJS WHITE (BEO-BEML-BLP-SU-CL)",
+        "71": "DJS BIOFLEX (CE-RP-SU-CL)-WHITE",
+        "73": "DJS BIOFLEX (CE-BEML-RP-SU-CL)-WHITE",
+        "74": "DJS BIOFLEX (BEO-RP-SU-CL)-WHITE",
+        "76": "DJS BIOFLEX (BEO-BEML-RP-SU-CL)-WHITE",
+        "81": "DJS BLUE (CE-GP-SU-CL)",
+        "83": "DJS BLUE (CE-BEML-GP-SU-CL)",
+        "84": "DJS BLUE (BEO-GP-SU-CL)",
+        "86": "DJS BLUE (BEO-BEML-GP-SU-CL)",
+        "91": "DJS WHITE (CE-GP-SU-CL)",
+        "93": "DJS WHITE (CE-BEML-GP-SU-CL)",
+        "94": "DJS WHITE (BEO-GP-SU-CL)",
+        "96": "DJS WHITE (BEO-BEML-GP-SU-CL)"
+      },
+      "D": {
+        "01": "DJS BLUE (CE-BP-SU-CL-GW)",
+        "03": "DJS BLUE (CE-BEML-BP-SU-CL-GW)",
+        "04": "DJS BLUE (BEO-BP-SU-CL-GW)",
+        "06": "DJS BLUE SET (BEO-BEML-BP-SU-CL-GW)",
+        "11": "DJS BLUE (CE-RP-SU-CL-GW)",
+        "13": "DJS BLUE (CE-BEML-RP-SU-CL-GW)",
+        "14": "DJS BLUE (BEO-RP-SU-CL-GW)",
+        "16": "DJS BLUE SET (BEO-BEML-RP-SU-CL-GW)",
+        "21": "DJS PRETOFLEX SET (CE-RP-SU-CL-GW)",
+        "23": "DJS PRETOFLEX SET (CE-BEML-RP-SU-CL-GW)",
+        "24": "DJS PRETOFLEX SET (BEO-RP-SU-CL-GW)",
+        "26": "DJS PRETOFLEX SET (BEO-BEML-RP-SU-CL-GW)",
+        "31": "DJS WHITE SET (CE-RP-SU-CL-GW)",
+        "33": "DJS WHITE SET (CE-BEML-RP-SU-CL-GW)",
+        "34": "DJS WHITE SET (BEO-RP-SU-CL-GW)",
+        "36": "DJS WHITE SET (BEO-BEML-RP-SU-CL-GW)",
+        "41": "DJS BIOFLEX SET (CE-RP-SU-CL-GW)-YELLOW",
+        "43": "DJS BIOFLEX SET (CE-BEML-RP-SU-CL-GW)-YELLOW",
+        "44": "DJS BIOFLEX SET (BEO-RP-SU-CL-GW)-YELLOW",
+        "46": "DJS BIOFLEX SET (BEO-BEML-RP-SU-CL-GW)-YELLOW",
+        "51": "DJS BIOFLEX SET (CE-BLP-SU-CL-GW)-WHITE",
+        "53": "DJS BIOFLEX SET (CE-BEML-BLP-SU-CL-GW)-WHITE",
+        "54": "DJS BIOFLEX SET (BEO-BLP-SU-CL-GW)-WHITE",
+        "56": "DJS BIOFLEX SET (BEO-BEML-BLP-SU-CL-GW)-WHITE",
+        "61": "DJS WHITE SET (CE-BLP-SU-CL-GW)",
+        "63": "DJS WHITE SET (CE-BEML-BLP-SU-CL-GW)",
+        "64": "DJS WHITE SET (BEO-BLP-SU-CL-GW)",
+        "66": "DJS WHITE SET (BEO-BEML-BLP-SU-CL-GW)",
+        "71": "DJS BIOFLEX SET (CE-RP-SU-CL-GW)-WHITE",
+        "73": "DJS BIOFLEX SET (CE-BEML-RP-SU-CL-GW)-WHITE",
+        "74": "DJS BIOFLEX SET (BEO-RP-SU-CL-GW)-WHITE",
+        "76": "DJS BIOFLEX SET (BEO-BEML-RP-SU-CL-GW)-WHITE",
+        "81": "DJS BLUE SET (CE-GP-SU-CL-GW)",
+        "83": "DJS BLUE SET (CE-BEML-GP-SU-CL-GW)",
+        "84": "DJS BLUE SET (BEO-GP-SU-CL-GW)",
+        "86": "DJS BLUE SET (BEO-BEML-GP-SU-CL-GW)",
+        "91": "DJS WHITE SET (CE-GP-SU-CL-GW)",
+        "93": "DJS WHITE SET (CE-BEML-GP-SU-CL-GW)",
+        "94": "DJS WHITE SET (BEO-GP-SU-CL-GW)",
+        "96": "DJS WHITE SET (BEO-BEML-GP-SU-CL-GW)"
+      },
+      "I": {
+        "24": "DJS PRETOFLEX SET (BEO-GP-SU-CL-GW)",
+        "44": "DJS BIOFLEX SET (BEO-GP-SU-CL-GW)-YELLOW"
+      }
+    }
+  },
+
+  "MFUMJV0DDLLHX": {
+    "name": "MONO J STENT CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "MJ": "Mono J Stent",
+      "V": {
+        "A": "Single",
+        "C": "Clamp",
+        "D": "Suture With Clamp & Guidewire"
+      },
+      "0": "Variant Code",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    },
+    "variants": {
+      "A": {
+        "11": "MONO J STENT CATHETER BLUE (CE-RP)",
+        "14": "MONO J STENT CATHETER BLUE (BEO-RP)",
+        "24": "MONO J STENT CATHETER BLUE (BEO-GP)"
+      },
+      "C": {
+        "24": "MONO J STENT CATHETER BLUE (BEO-GP-CL)"
+      },
+      "D": {
+        "11": "MONO J STENT CATHETER SET BLUE (CE-RP-SU-CL-GW)",
+        "14": "MONO J STENT CATHETER SET BLUE (BEO-RP-SU-CL-GW)",
+        "21": "MONO J STENT CATHETER SET BLUE (CE-GP-SU-CL-GW)",
+        "24": "MONO J STENT CATHETER SET BLUE (BEO-GP-SU-CL-GW)"
+      }
+    }
+  },
+
+  "MFUADXXDDLLH": {
+    "name": "AMPLATZ DILATOR",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "AD": "Amplatz Dilator",
+      "XX": {
+        "01": "Blue Single"
+      },
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coated"
+    }
+  },
+
+  "MFUASDXXDDLL": {
+    "name": "AMPLATZ SHEATH WITH DILATOR",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "ASD": "Amplatz Sheath with Dilator",
+      "XX": {
+        "01": "Single Blue Long Taper"
+      },
+      "DD": "OD in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUADSXXDDLLH": {
+    "name": "AMPLATZ RENAL DILATOR SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "AD": "Amplatz Dilator",
+      "S": "Set",
+      "XX": {
+        "02": "Blue Long taper",
+        "03": "Blue Short taper",
+        "04": "Green Long taper",
+        "05": "Green Short taper",
+        "06": "Mini perc set"
+      },
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coated"
+    }
+  },
+
+  "MFUASXXDDddLL": {
+    "name": "AMPLATZ SHEATH",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "AS": "Amplatz Sheath",
+      "XX": {
+        "01": "Single"
+      },
+      "DD": "OD in FR",
+      "dd": "ID in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BCCCVDDLL": {
+    "name": "CYSTO CATHETER & SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "Common",
+      "CC": "Cysto Catheter",
+      "V": {
+        "20": "Cysto plastic trocar with sheath",
+        "21": "Cysto catheter set (2-way latex) metal tip",
+        "23": "Cysto catheter set (2-way latex) plastic trocar",
+        "24": "Cysto catheter set (2-way silicon) plastic trocar",
+        "25": "Cysto catheter set (2-way silicon) with urine bag plastic trocar",
+        "27": "Cysto catheter set (2-way silicon) metal tip",
+        "28": "Cysto plastic trocar with metal tip and sheath",
+        "30": "Cysto catheter set (2-way silicon) with urine bag metal tip"
+      },
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BIBCVDDLL": {
+    "name": "INTEGRAL BALLOON CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "I": "Integral",
+      "BC": "Balloon Catheter",
+      "V": {
+        "01": "Integral balloon catheter set (2-way silicon) with plastic trocar",
+        "02": "Cysto integral balloon catheter set (2-way silicon) with metal tip plastic trocar",
+        "03": "Cysto integral balloon catheter (2-way silicon) with metal split trocar"
+      },
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUSBVDDCCLLX": {
+    "name": "STONE BASKET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "SB": "Stone Basket",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "CC": "Wire Type",
+      "LL": "Length in CM",
+      "X": {
+        "S": "Scissor type",
+        "F": "Fish type",
+        "D": "D-shape"
+      }
+    }
+  },
+
+  "MFUGPVDDCCLLX": {
+    "name": "G-PAW BASKET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "GP": "G-Paw",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "CC": "Wire Type",
+      "LL": "Length in CM",
+      "X": {
+        "S": "Scissor type",
+        "F": "Fish type",
+        "D": "D-shape"
+      }
+    }
+  },
+
+  "MFUSXVDDCCLLX": {
+    "name": "STONE BASKET X-CIRCLE",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "SX": "Stone Basket X-Circle",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "CC": "Wire Type",
+      "LL": "Length in CM",
+      "X": {
+        "S": "Scissor type",
+        "F": "Fish type",
+        "D": "D-shape"
+      }
+    }
+  },
+
+  "MFUPBVDDCCLLX": {
+    "name": "PERK BASKET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "PB": "Perk Basket",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "CC": "Wire Type",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUSGVDDCCLLX": {
+    "name": "STONE GRASPER",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "SG": "Stone Grasper",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "CC": "Wire Type",
+      "LL": "Length in CM",
+      "X": {
+        "S": "Scissor type",
+        "F": "Fish type",
+        "D": "D-shape"
+      }
+    }
+  },
+
+  "MFUYYVDDAALLX": {
+    "name": "CUTTING LOOPS",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "YY": {
+        "BE": "Ball Electrode",
+        "BL": "Bipolar",
+        "BT": "Button/Mushroom",
+        "CK": "Cold Knife",
+        "CE": "Cutting Electrode",
+        "RL": "Roller Loop"
+      },
+      "V": {
+        "01OL": "Ball Electrode Single Stem Olympus",
+        "01SZ": "Ball Electrode Single Stem Storz",
+        "01WF": "Ball Electrode Single Stem Wolf",
+        "02SZ": "Ball Electrode Double Stem Storz",
+        "03DZ": "Bipolar Cutting Loop (DS) CH Storz"
+      },
+      "WW": "Loop Type",
+      "DD": "Size in MM",
+      "AA": "Angle in Degree",
+      "LL": "Length in CH",
+      "X": {
+        "M": "Monopolar",
+        "B": "Bipolar"
+      }
+    }
+  },
+
+  "BCBGVDDLL": {
+    "name": "BIOPSY GUN",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "BG": "Biopsy Gun",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BCCNVDDLL": {
+    "name": "CHIBA NEEDLE",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "CN": "Chiba Needle",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BCIPNVDDLL": {
+    "name": "INTRODUCER NEEDLE",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "IP": "I.P Needle",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUESVDDLL": {
+    "name": "ENDOPYELOTOMY STENT",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "ES": "Endopyelotomy Stent",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUFDVDDLL": {
+    "name": "FILIFORM DILATOR",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "FD": "Filiform Dilator",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BCFDVDDLLH": {
+    "name": "FASCIAL DILATOR",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "FD": "Fascial Dilator",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "BCMCVDDLLH": {
+    "name": "MALECOT CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "MC": "Malecot Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "MFURMVDDLL": {
+    "name": "RE-ENTRY MALECOT CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "RM": "Re-Entry Malecot",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BCSCVDDLL": {
+    "name": "SUPRAPUBIC CATHETER-MALECOT TYPE / SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "SC": "Suprapubic Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUDLCVDDLLH": {
+    "name": "DUAL LUMEN URETERAL CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "DLC": "Dual Lumen Ureteral Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "BCGWVDDLL": {
+    "name": "GUIDE WIRE",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "GW": "Guide Wire",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUNCVDDLL": {
+    "name": "NOTTINGHAM ONE STEP CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "NC": "Nottingham One Step Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BCPCVDDLLH": {
+    "name": "PCN CATHETER / PCN WITH NEEDLE & SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "PC": "PCN Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "BRPCVDDLL": {
+    "name": "PCN/ABCESS DRAINAGE WITH NEEDLE & SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "R": "Radiology",
+      "PC": "PCN/Abcess Drainage",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUSDVDDLLH": {
+    "name": "S-CURVE URETHRAL DILATOR & SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "SD": "S-Curve Urethral Dilator",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "BCBDVDDCCLL": {
+    "name": "URETERAL BALLOON DILATOR",
+    "segments": {
+      "MF": "Marflow AG",
+      "C": "",
+      "BD": "Ureteral Balloon Dilator",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "CC": "",
+      "LL": "Length in CM"
+    }
+  },
+
+  "MFUUASVDDCCLLH": {
+    "name": "URETERAL ACCESS SHEATH CATHETER (BS / NON BS)",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "UAS": "Ureteral Access Sheath",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "MFUUCVDDCCLLH": {
+    "name": "URETERAL CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "UC": "Ureteral Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "MFUUDVDDCCLLH": {
+    "name": "URETERAL DILATOR & SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "UD": "Ureteral Dilator",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "MFUUSVDDCCLLH": {
+    "name": "URETHRAL STENT CATHETER & SET",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "US": "Urethral Stent Catheter",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM",
+      "H": "Hydrophilic Coating"
+    }
+  },
+
+  "MFUUFVDDCCLLH": {
+    "name": "URS FORCEPS",
+    "segments": {
+      "MF": "Marflow AG",
+      "U": "Urology",
+      "UF": "URS Forceps",
+      "V": "Product Type",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  },
+
+  "BGXXVDDLL": {
+    "name": "BILIARY DRAINAGE CATHETER",
+    "segments": {
+      "MF": "Marflow AG",
+      "G": "Gastro",
+      "XX": "Biliary Stent / NBDC / PTBD",
+      "V": "Type of Stent",
+      "DD": "Size in FR",
+      "LL": "Length in CM"
+    }
+  }
+}
